@@ -1,3 +1,4 @@
+//This is a guessing game where you need to guess a random number from 1 to 99
 
 /*
    Please read everything before you start, you need to do exactly what you
